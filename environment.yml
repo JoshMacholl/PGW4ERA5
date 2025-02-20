@@ -1,13 +1,12 @@
 name: pgw
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
   - alsa-lib=1.2.8=h166bdaf_0
   - attr=2.5.1=h166bdaf_1
-  - bokeh=3.0.2=pyhd8ed1ab_0
+  - bokeh=2.4.3=pyhd8ed1ab_1
   - brotli=1.0.9=h166bdaf_8
   - brotli-bin=1.0.9=h166bdaf_8
   - bzip2=1.0.8=h7f98852_4
